@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan Yolcu</h1>
+<br>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" />
 </p>
+<br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -95,16 +97,18 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanyolcu&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkanyolcu&theme=dark" alt="GitHub Streak" />
 </p>
+<br>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Furkanyolcu&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkanyolcu&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanyolcu&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
