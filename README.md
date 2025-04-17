@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Yolcu</h1>
+![snake gif](https://github.com/Furkanyolcu/Furkanyolcu/blob/output/github-snake-dark.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" /> </p>
 
