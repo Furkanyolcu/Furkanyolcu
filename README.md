@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Furkan Yolcu</h1>
+<h1 align="center">
+  <img align="left" src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" height="28px" />
+  Hi 👋, I'm Furkan Yolcu
+  <a href="mailto:furkanyolcu566@gmail.com" align="right">
+<img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" /></h1>
 <br>
 
 <p align="center">
   <img src="https://i.gifer.com/3BBS.gif" alt="Hello World Animation">
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" />
-</p>
-<br>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
