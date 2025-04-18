@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Furkanyolcu&theme=onedark" alt="Furkanyolcu" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Furkanyolcu&theme=light" alt="Furkanyolcu" />
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Furkanyolcu/Furkanyolcu/output/github-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Furkanyolcu/Furkanyolcu/output/github-snake.svg" width="100%"/>
 </p>
 <h3 align="center">About Me I am a third-year Computer Engineering student with a strong focus on backend development. I am passionate about building efficient, scalable systems and continuously improving my technical skills through practical projects and learning.</h3>
 <br>
@@ -100,17 +100,17 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkanyolcu&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkanyolcu&theme=light" alt="GitHub Streak" />
 </p>
 <br>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Furkanyolcu&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Furkanyolcu&show_icons=true&locale=en&theme=light" alt="GitHub Stats" />
 </p>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanyolcu&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanyolcu&layout=compact&theme=light" alt="Top Langs" />
 </p>
 
