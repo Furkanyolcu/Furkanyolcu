@@ -2,6 +2,10 @@
 <br>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" alt="Hello World Animation">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" />
 </p>
 <br>
