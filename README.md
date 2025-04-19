@@ -3,6 +3,7 @@
   Hi 👋, I'm Furkan Yolcu
   <a href="mailto:furkanyolcu566@gmail.com" align="right">
 <img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" /></h1>
+    
 <br>
 
 <p align="center">
