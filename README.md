@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Furkanyolcu/Furkanyolcu/output/github-snake.svg" width="100%"/>
 </p>
-<h3 align="center">About Me I am a third-year Computer Engineering student with a strong focus on backend development. I am passionate about building efficient, scalable systems and continuously improving my technical skills through practical projects and learning.</h3>
+<h3 align="center">I am a final-year Computer Engineering student. with a strong focus on backend development. I am passionate about building efficient, scalable systems and continuously improving my technical skills through practical projects and learning.</h3>
 <br>
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
