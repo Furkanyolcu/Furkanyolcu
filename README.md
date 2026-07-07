@@ -2,7 +2,7 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" height="28px" />
   Hi 👋, I'm Furkan Yolcu
   <a href="mailto:furkanyolcu566@gmail.com" align="right">
-<img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" /></h1>
+<img align="right" src="[https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1qczJ4dDF4amRxdXJoZHJ0ajFqOXRiaHI4ZzNjMHZsYWoyem5tZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Contact" height="28px" /></h1>
 
 
     
