@@ -6,13 +6,21 @@
 
 
     
-<br>
-
-
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmNDZsdzM4Z3czeXZzcXF2eDdqOTA2aDA1cnRxbjA5ZjBvanczZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tj1tqx8f8unnKx1DIh/giphy.gif" alt="Hello World Animation">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Furkanyolcu/qr/main/code.svg" height="220">
+      </td>
+      <td align="center">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV3bjc4djB6a3ViYm5mbHJjeXJwdHR5OHdvcmcwMXZtd2V4ZjVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KjWDaVqI6waTtJmEXT/giphy.gif" alt="Hello World Animation">
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Furkanyolcu/qr/main/code.svg" height="220">
+      </td>
+    </tr>
+  </table>
 </p>
-
 <p align="center">
   <!-- 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
