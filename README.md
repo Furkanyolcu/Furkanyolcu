@@ -2,7 +2,7 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=Furkanyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="Furkanyolcu" height="28px" />
   Hi 👋, I'm Furkan Yolcu
   <a href="mailto:furkanyolcu566@gmail.com" align="right">
-<img align="right" src="[https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1qczJ4dDF4amRxdXJoZHJ0ajFqOXRiaHI4ZzNjMHZsYWoyem5tZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Contact" height="28px" /></h1>
+<img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" height="28px" /></h1>
 
 
     
@@ -10,14 +10,15 @@
 
 
 <p align="center">
-  <img src="https://i.gifer.com/3BBS.gif" alt="Hello World Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFmNDZsdzM4Z3czeXZzcXF2eDdqOTA2aDA1cnRxbjA5ZjBvanczZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tj1tqx8f8unnKx1DIh/giphy.gif" alt="Hello World Animation">
 </p>
 
 <p align="center">
-  
+  <!-- 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Furkanyolcu&theme=light" alt="Furkanyolcu" />
   </a>
+  -->
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Furkanyolcu/Furkanyolcu/output/github-snake.svg" width="100%"/>
