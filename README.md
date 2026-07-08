@@ -9,9 +9,9 @@
 
 <p align="center">
   <img src="https://github.com/Furkanyolcu/qr/blob/main/linkedin.svg" height="200" align="middle">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="70" height="1">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV3bjc4djB6a3ViYm5mbHJjeXJwdHR5OHdvcmcwMXZtd2V4ZjVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KjWDaVqI6waTtJmEXT/giphy.gif" alt="Hello World Animation" height="550" align="middle">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="70" height="1">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Furkanyolcu/qr/blob/main/instagram.svg" height="200" align="middle">
 </p>
 
