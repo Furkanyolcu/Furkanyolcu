@@ -5,14 +5,19 @@
 <img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" height="28px" /></h1>
 
  <br>
+
+
 <p align="center">
   <img src="https://github.com/Furkanyolcu/qr/blob/main/linkedin.svg" height="200" align="middle">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="70" height="1">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV3bjc4djB6a3ViYm5mbHJjeXJwdHR5OHdvcmcwMXZtd2V4ZjVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KjWDaVqI6waTtJmEXT/giphy.gif" alt="Hello World Animation" height="550" align="middle">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="70" height="1">
   <img src="https://github.com/Furkanyolcu/qr/blob/main/instagram.svg" height="200" align="middle">
 </p>
+
+
   <br>
+  
   <!-- 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Furkanyolcu&theme=light" alt="Furkanyolcu" />
